@@ -7,7 +7,7 @@ This app allows users to manage their daily tasks by adding, updating, and delet
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/multi-app-repo.git
+    git clone https://github.com/your-username/SmallReactProjects.git
     cd SmallReactProjects/todo-list-app
     ```
 
