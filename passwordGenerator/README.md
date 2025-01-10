@@ -5,23 +5,23 @@ This app generates random and secure passwords with specified criteria such as l
 
 ### Setup & Usage
 
-1. Clone the repository:
+1.Clone the repository:
     ```bash
     git clone https://github.com/your-username/SmallReactProject.git
     cd SmallReactProjects/password-generator
     ```
 
-2. Install dependencies:
+3. Install dependencies:
     ```bash
     npm install
     ```
 
-3. Run the app:
+4. Run the app:
     ```bash
     npm run dev 
     ```
 
-4. Open the app in your browser: `http://localhost:3000`
+5. Open the app in your browser: `http://localhost:3000`
 
 ### Features
 - Generate passwords with customizable length and complexity.
